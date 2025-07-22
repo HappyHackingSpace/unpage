@@ -3,8 +3,8 @@
 A machine‑readable web
 
 ## Features
-. extract
-. crawl
-. nlp
-. knowledgegraph
-. leadgraph
+- extract
+- crawl
+- nlp
+- knowledgegraph
+- leadgraph
